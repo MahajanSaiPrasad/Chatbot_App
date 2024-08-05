@@ -10,12 +10,14 @@ Chatbot_App is a simple yet effective chat application built using Java, Java Sw
 *Basic Chat Functionality: Send and receive text messages with ease.
 
 ###Technologies Used
+
 *Java: The core programming language used for application development.
 *Java Swing: Provides the graphical user interface (GUI) components.
 *AWT (Abstract Window Toolkit): Used for additional GUI components and event handling.
 *Socket Programming: Enables network communication between the client and server.
 
 ###Benefits
+
 *Ease of Use: The application features a straightforward interface that makes it easy for users to start chatting without any complex setup.
 *Learning Experience: Ideal for learning and understanding the fundamentals of socket programming and GUI development in Java.
 *Real-Time Interaction: Enjoy immediate message delivery, enhancing the chat experience with real-time interaction.
